@@ -1,5 +1,5 @@
 ---
-cover_index: "https://cdn.jsdelivr.net/gh/xperiDD/-/场景7.png"
+cover_index: /images/指环王1.JPG
 title: DreamMaker
 date: 2020-06-23 10:31:39
 tags: 电影 影评
