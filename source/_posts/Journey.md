@@ -29,33 +29,8 @@ title: Journey
 
 ### Create a new post
 
-![示例图片](/images/大阪烧.png "示例图片")  ![示例图片](/images/料理.jpg "示例图片")
-``` bash
-$ hexo new "My New Post"
-```
+![示例图片](/images/大阪烧.png "示例图片")  
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+第二天早上参观了大坂著名的通天阁，下午在购物天堂“心斋桥”买了很多免税商品，果然购物使人愉快w
+![示例图片](/images/通天阁.JPG "示例图片")
+![示例图片](/images/心斋桥.jpg "示例图片")
