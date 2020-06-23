@@ -1,8 +1,10 @@
 ---
+cover_index: "https://cdn.jsdelivr.net/gh/xperiDD/-/场景7.png"
 title: DreamMaker
 date: 2020-06-23 10:31:39
 tags: 电影 影评
 ---
+
 电影， 一种会让人的意境超脱周身环境的观念束缚，始终以一个独立人格的生命屹立于世
 
 ## Quick Start
