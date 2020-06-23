@@ -1,14 +1,12 @@
 ---
-cover_index: /images/旅游封面.JPG
-title: Journey
+title: Works
 ---
-旅游日记（日本+英国+爱尔兰）
+Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## 日本
+## Quick Start
 
 ### Create a new post
 
-![示例图片](/images/大阪烧.png "示例图片")
 ``` bash
 $ hexo new "My New Post"
 ```
