@@ -1,5 +1,5 @@
 ---
-cover_index: /images/封面.JPG
+cover_index: /images/封面1.JPG
 title: DreamMaker
 date: 2020-06-23 10:31:39
 tags: 电影 影评
