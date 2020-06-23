@@ -42,13 +42,14 @@ comments:
 google_analytics:
 
 # Social Accounts
-twitter_url: https://twitter.com/?lang=en
-facebook_url: https://www.facebook.com/
-instagram_url: https://www.instagram.com/
-dribble_url: https://dribbble.com/
+#twitter_url: https://twitter.com/?lang=en
+facebook_url: https://www.facebook.com/profile.php?id=100013073499450
+instagram_url: https://www.instagram.com/gracewang0228
+#dribble_url: https://dribbble.com/
 github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
-googleplus_url: https://plus.google.com/
-behance_url: https://www.behance.net/
-fivehundredpx_url: https://500px.com/
-email_url: \#
-rss_url: \#
+# googleplus_url: https://plus.google.com/
+behance_url: https://www.behance.net/36391232668c0
+youtube_url: http://www.youtube.com/channel/UC9eT4DhFPt5HIok4IPFAMOg
+#fivehundredpx_url: https://500px.com/
+email_url: \#363912326@qq.com
+#rss_url: \#
