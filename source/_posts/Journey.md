@@ -8,6 +8,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ### Create a new post
 
+![示例图片](/images/大阪烧.jpg "示例图片")
 ``` bash
 $ hexo new "My New Post"
 ```
