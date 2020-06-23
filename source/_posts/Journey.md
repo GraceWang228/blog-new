@@ -29,7 +29,7 @@ title: Journey
 
 ### Create a new post
 
-![示例图片](/images/大阪烧.png "示例图片")![示例图片](/images/料理.jpg "示例图片")
+![示例图片](/images/大阪烧.png "示例图片")  ![示例图片](/images/料理.jpg "示例图片")
 ``` bash
 $ hexo new "My New Post"
 ```
