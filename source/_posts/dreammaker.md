@@ -6,7 +6,7 @@ tags: 电影 影评
 ---
 人们去看电影通常是因为时间：为了失去或错过的时光，为了不曾拥有的时光。
 
-## 我的影评（keep update）
+## 我的影评
 
 ### 指环王The Lord Of The Rings1-3（2001-2003）
 ### 霍比特人The Hobbits1-3（2013-2015）
@@ -54,32 +54,4 @@ B站于2020年4月22日买了魔戒六部曲蓝光版，借此机会再次重温
 如奶奶Violet所说，旧时代的秩序在慢慢瓦解，时代越变越快，我们的祖辈和我们的孩子终究会过着不同的生活。而downton abbey永远在这里，它已经给生活过或者现在在这生活的人带来了非凡的影响和意义。
 最后的谢幕从乡村小径一直到草坪，最终定格在庄园，它仿佛拥有记忆，记录着过去的辉煌与伤疤，因而有更强大的意志迎接未知的未来，它永远也不会因为时代的变化而消亡。
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+TBC
