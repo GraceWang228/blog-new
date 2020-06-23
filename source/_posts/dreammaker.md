@@ -1,5 +1,5 @@
 ---
-cover_index: /images/指环王1.JPG
+cover_index: /images/封面.JPG
 title: DreamMaker
 date: 2020-06-23 10:31:39
 tags: 电影 影评
@@ -10,7 +10,7 @@ tags: 电影 影评
 ## Quick Start
 
 ### Create a new post
-
+![示例图片](/images/奇迹1.jpg "示例图片")
 ``` bash
 $ hexo new "My New Post"
 ```
