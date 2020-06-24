@@ -1,5 +1,5 @@
 ---
-cover_index: /images/狗子.JPG
+cover_index: /images/纸雕灯.png
 title: Interactive Paper Lamp
 ---
 东南形胜，三吴都会，钱唐自古繁华。烟柳画桥，风帘翠幕，参差十万人家。——柳永《望海潮》
@@ -9,6 +9,7 @@ title: Interactive Paper Lamp
 它包含了许多杭州传统文化元素，可以让人在短短一分钟内领略到杭州这座温柔江南古城的魅力。
 
 <iframe src="//player.bilibili.com/player.html?aid=77902775&bvid=BV1qJ411q7eE&cid=133278261&page=1" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 ## 设计元素剖析
 我们选取了十几个具有代表性的杭州传统文化元素，将它们融入到了这盏灯中，而纸雕本身就是一种中国传统文化，更能凸显我们想要呈现的效果，因此选用了纸雕的形式来完成这件作品。
