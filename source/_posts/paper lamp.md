@@ -1,5 +1,5 @@
 ---
-cover_index: /images/纸雕灯.png
+cover_index: /images/zhi.png
 title: Interactive Paper Lamp
 ---
 东南形胜，三吴都会，钱唐自古繁华。烟柳画桥，风帘翠幕，参差十万人家。——柳永《望海潮》
