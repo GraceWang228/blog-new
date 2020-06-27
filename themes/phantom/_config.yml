@@ -13,7 +13,7 @@ subtitle_main: Hi! I’m Grace
 # Theme Secondary subtitle
 susbtitle_secondary: Major in industrial design, be fond of singing, drawing, making videos and designing :)
 # Footer About Section
-about_footer: This theme was initially developed by <a href="http://html5up.net" target="_blank">HTML5 UP</a>. It is adapted for Hexo by <a href="http://www.codeblocq.com/" target="_blank">Jonathan Klughertz</a>.<br />The source code is available on <a href="https://github.com/klugjo/hexo-theme-phantom" target="_blank">GitHub</a>.
+about_footer: If you want to contact me, please send email to @363912326@qq.com
 
 # Default post title
 default_post_title: Untitled
@@ -45,10 +45,10 @@ google_analytics:
 facebook_url: https://www.facebook.com/profile.php?id=100013073499450
 instagram_url: https://www.instagram.com/gracewang0228
 #dribble_url: https://dribbble.com/
-github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
+#github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
 # googleplus_url: https://plus.google.com/
 behance_url: https://www.behance.net/36391232668c0
 youtube_url: http://www.youtube.com/channel/UC9eT4DhFPt5HIok4IPFAMOg
 #fivehundredpx_url: https://500px.com/
-email_url: https://mail.qq.com/cgi-bin/frame_html?sid=TshTjFDHJJRlMid5&r=42841dbea31b9f655c98e318e8c7f006
+#email_url: https://mail.qq.com/cgi-bin/frame_html?sid=TshTjFDHJJRlMid5&r=42841dbea31b9f655c98e318e8c7f006
 #rss_url: \#
